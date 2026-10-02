@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Моя игра",
+    "downloadUrl": "https://example.com/mygame.zip",
+    "uris": [
+      "https://example.com/mygame.zip"
+    ]
+  }
+]
